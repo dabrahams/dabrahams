@@ -1,3 +1,3 @@
-I'm a specialist in programming language and library design at Adobe.  My mission is to fix programming by empowering programmers.
+I'm a retired specialist in programming language and library design.  My professional mission _was_ to fix programming by empowering programmers.  Now that I'm retired, I'm focused on [my music](https://daveabrahams.com), while continuing to keep my hand in [the Hylo project](https://hylo-lang.org).
 
-You can reach me [here](https://github.com/dabrahams/dabrahams/discussions).
+On technical matteres, you can reach me [here](https://github.com/dabrahams/dabrahams/discussions).
